@@ -8,7 +8,7 @@ Disk Capacity: 2TB
 OS: Ubuntu 22.04 (Kernel: 6.5.0-18-generic)   
 Python: 3.10.12   
 ipex-llm: 2.2.0b20241001   
-pyautogen: 0.3.0   
+ag2: 0.3.0   
 
 ## Activating GPU Driver   
 1. Activate iGPU by adding the following line to /etc/default/grub   
@@ -64,7 +64,7 @@ source autogen_venv/bin/activate
 4. Upgrade the pip version and install autogen   
 ```
 python -m pip install pip --upgrade   
-pip install pyautogen   
+pip install ag2   
 ```
 
 5. Install [ipex-llm](https://github.com/intel-analytics/ipex-llm/blob/main/docs/mddocs/Quickstart/ollama_quickstart.md)   
