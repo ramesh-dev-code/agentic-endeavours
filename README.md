@@ -2,5 +2,6 @@
 ## AutoGen
 ### Stand-up Comedians
 ### Personal Coding Assistant
-## LangChain
+## LangChain   
+### [Stock Analysis Agent using MCP-Use](https://github.com/ramesh-dev-code/mcp-use-multi-server)   
 ## LangGraph   
