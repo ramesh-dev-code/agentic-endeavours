@@ -7,5 +7,5 @@
 ## LangGraph   
 ### [Linux Command Execution Agent](https://github.com/ramesh-dev-code/linux-cmd-exec-agent)   
 ## ADK   
-### Parallel Researcher Agents
+### [Parallel Researcher Agents](https://github.com/ramesh-dev-code/adk-parallel-researcher-agents)
 
